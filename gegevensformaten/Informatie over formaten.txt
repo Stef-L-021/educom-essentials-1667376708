@@ -1,0 +1,21 @@
+1. Markdown:
+
+Markdown (.md) is een tekstbestand dat veel gebruikt wordt voor readme bestanden in github. verder wordt het ook gebruikt voor wikipedia
+
+2. JSON
+
+JavaScript Object Notation (JSON) wordt voornamelijk gebruikt voor de uitwisseling van data tussen server en webapplicatie. 
+API's als die van Twitter, facebook en youtube gebruiken JSON
+
+3. XML
+afgeleide van html
+Een alternatief voor JSON. 
+
+4. SVG
+
+Scalable Vector Graphics (SVG) is een bestandsformaat voor afbeeldingen die gebruikt om een afbeelding weer te geven op verschillende formaten. 
+Dit wordt gebruikt bij sites als google, youtube en instagram.
+
+5. YAML
+
+YAML wordt gebruikt voor data. 
