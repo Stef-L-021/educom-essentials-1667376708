@@ -1,0 +1,12 @@
+Ik heb NodeJS geinstalleerd.
+Als ik de composer probeer te installeren en ik PHP.exe aangeef krijg ik de volgende foutmelding:
+
+The PHP exe file you specified did not run correctly:
+C:\Programmas\XAMPP\php\php.exe
+
+The php.ini used by your command-line PHP is: C:\Programmas\XAMPP\php\php.ini
+
+A duplicate setting in your php.ini could be causing the problem.
+
+Program Output:
+PHP Warning:  Module "mysqli" is already loaded
