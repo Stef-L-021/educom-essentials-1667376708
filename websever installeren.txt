@@ -1,0 +1,8 @@
+Ik heb XAMPP geinstalleerd. Alle services werken behalve MySQL. Hier krijg ik foutmelding:
+11:19:47  [mysql] 	Error: MySQL shutdown unexpectedly.
+11:19:47  [mysql] 	This may be due to a blocked port, missing dependencies, 
+11:19:47  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+11:19:47  [mysql] 	Press the Logs button to view error logs and check
+11:19:47  [mysql] 	the Windows Event Viewer for more clues
+11:19:47  [mysql] 	If you need more help, copy and post this
+11:19:47  [mysql] 	entire log window on the forums
